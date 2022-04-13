@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything mobile app development and web development
 - 🌱 I’m currently learning Flutter and React
 - 💞️ I’m looking to collaborate on any interesting projects
-- 📫 You can find me on twitter with the tag @PrinceBerth
+- 📫 You can find me on twitter with the tag @AnumbaPrince
 
 <!---
 Prinski/Prinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
